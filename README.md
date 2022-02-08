@@ -1,0 +1,2 @@
+This project consists of building a recipe website containing
+three different recipes. It addresses the HTML skills of building the boilerplate, creating text (paragraphs and headings), adding images, linking pages, and creating unordered and ordered lists.
